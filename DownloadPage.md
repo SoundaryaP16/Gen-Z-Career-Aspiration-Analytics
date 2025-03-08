@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Gen-Z Career Aspiration Analytics</title>
+    <title>Power BI Report</title>
 </head>
 <body>
-    <h2>Power BI Report</h2>
+    <h2>Gen-Z Career Aspiration Analytics</h2>
     <p>📄 <a href="Gen-Z PowerBI.pdf" download>Download PDF Report</a></p>
     <p>📊 <a href="Gen-Z PowerBI.pbix" download>Download Power BI File (.pbix)</a></p>
     <p>📊 <a href="Your Career Aspirations (Responses).xlsx" download>Download Raw Data File File (.pbix)</a></p>
