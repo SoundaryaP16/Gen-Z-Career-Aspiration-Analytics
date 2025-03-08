@@ -1,6 +1,0 @@
-
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
-git rm README.md
-git commit -m ","
-git push origin main
