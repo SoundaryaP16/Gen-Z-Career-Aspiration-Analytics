@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Power BI Report</title>
-</head>
 <body>
     <h2>Gen-Z Career Aspiration Analytics</h2>
     <p>📄 <a href="Gen-Z PowerBI.pdf" download>Download PDF Report</a></p>
